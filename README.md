@@ -13,8 +13,14 @@ A Chrome extension designed to bypass NeoCollab restrictions, allowing users to 
 - **Test Without Access Code**: Start the test without an access code.
 - **Test After Expiry/Closed**: Attempt the test after it has been closed.
 
+## Download Extension
+[GitHub All Releases](https://github.com/artyviz/neobypass/releases)
+
+## Proof of Functionality
+Watch this [test clip](https://github.com/artyviz/neobypass/blob/main/comp.mp4) to see the extension in action.
+
 ## How to Install and Use?
-1. **Download and Extract**: Download the extension ZIP file from the latest release and extract it.
+1. **Download and Extract**: Download the extension ZIP file from the latest release (or the above button) and extract it.
 2. **Open Chrome Extensions**: Go to `chrome://extensions/` and enable Developer mode from the top right.
 3. **Load Unpacked Extension**: Click on the "Load unpacked" button and select the extracted extension folder. (Make sure to remove the original extension if previously installed)
 4. **Install and Use**: The extension is now installed. You can now perform various actions during your tests.
@@ -28,3 +34,7 @@ This extension is intended for educational purposes only. Use responsibly and in
 
 ## Contact
 For any inquiries or support, please contact the developer at https://www.instagram.com/fkneowehateyou/
+
+
+https://github.com/user-attachments/assets/04f59de8-db25-4ce0-b501-fe1119b0b530
+
