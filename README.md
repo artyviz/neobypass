@@ -17,7 +17,7 @@ A Chrome extension designed to bypass NeoCollab restrictions, allowing users to 
 [GitHub All Releases](https://github.com/artyviz/neobypass/releases)
 
 ## Proof of Functionality
-Watch this [test clip](https://github.com/artyviz/neobypass/blob/main/comp.mp4) to see the extension in action.
+(attaached below)
 
 ## How to Install and Use?
 1. **Download and Extract**: Download the extension ZIP file from the latest release (or the above button) and extract it.
